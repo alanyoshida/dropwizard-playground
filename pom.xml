@@ -10,7 +10,7 @@
     </prerequisites>
 
     <groupId>io.dropwizard.archetypes</groupId>
-    <artifactId>payment-api</artifactId>
+    <artifactId>dropwizard-api</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
