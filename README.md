@@ -5,4 +5,4 @@ Brincando com Java usando Dropwizard para criar uma API.
 mvn clean install
 
 ## to run the project
-java -jar target/payment-api-1.0-SNAPSHOT.jar server hello-world.yml
+java -jar target/dropwizard-api-1.0-SNAPSHOT.jar server hello-world.yml
